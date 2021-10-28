@@ -1,0 +1,16 @@
+{
+  "name": "intro-nodejs",
+  "version": "1.0.0",
+  "description": "aula de node",
+  "main": "index.js",
+  "scripts": {
+    "start": "node servidor.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "aula"
+  ],
+  "author": "Diego Loiola",
+  "license": "ISC"
+}
