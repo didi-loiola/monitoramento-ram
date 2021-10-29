@@ -16,7 +16,7 @@ setInterval(()=>{
         FreeRam: `${fRam} MB`,
         Usage: `${usage} %`
     }
-    console.clear();
-    console.table(status);
+    //console.clear();
+    //console.table(status);
     exports.status = status;
 }, 1000)
